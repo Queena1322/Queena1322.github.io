@@ -10,9 +10,9 @@
 
     <title>BMI 計算機</title>
 
-    <link rel="stylesheet" href="../桌面/bootstrap.min.css">
-    <script src="../桌面/jquery-2.2.4.js"></script>
-    <script src="../桌面/bootstrap.js"></script>
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <script src="jquery-2.2.4.js"></script>
+    <script src="bootstrap.js"></script>
 
 </head>
 
